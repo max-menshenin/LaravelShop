@@ -1,6 +1,4 @@
 <h1>Great Dev</h1>
-<a href="">welcome</a>
+<a href="test">welcome</a>
 <br>
-<a href="menu">Menu</a>
-<h2>Index</h2>
-
+<a href="menu">menu</a>

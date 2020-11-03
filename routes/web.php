@@ -16,11 +16,10 @@ use App\Http\Controllers\IndexController;
 
 Route::get('/', [IndexController::class, 'index']);
 
-Route::get('/menu', function () {
-    return view('menu');
-});
-
-Route::get('/welcome', function () {
+Route::get('/test', function () {
     return view('welcome');
 });
 
+Route::get('/menu', function () {
+    return view('menu');
+});
